@@ -9,7 +9,7 @@ REDIS_HOST = "redis-18559.c278.us-east-1-4.ec2.redns.redis-cloud.com"
 REDIS_PORT = "18559"
 REDIS_PASSWORD = "RxE5lQEJp6AKnPtP0nwj7LNSnA99ZuXS"
 
-PRIVATE_CHAT_ID = -1001234567890  # CHAT WHERE YOU WANT TO STORE VIDEOS
+PRIVATE_CHAT_ID = -1001786924542  # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
 COOKIE = ""
 ADMINS = [5469498838]
@@ -20,4 +20,4 @@ BOT_USERNAME = "terabox_downloader_TJbot"
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
 FORCE_LINK = "@tj_bots"
 
-PUBLIC_EARN_API = ""  # https://publicearn.com/api
+PUBLIC_EARN_API = "https://indiaearnx.com/3ca9e6d453fa647f7dea5916f50519819919f62a"  # https://publicearn.com/api
