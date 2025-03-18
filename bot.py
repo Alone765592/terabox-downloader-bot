@@ -206,3 +206,23 @@ async def removeall(m: UpdateNewMessage):
 
 bot.start(bot_token=BOT_TOKEN)
 bot.run_until_disconnected()
+
+
+
+from flask import Flask
+
+app = Flask(__name__)
+
+@app.route('/')
+def health_check():
+    return "Bot is running!", 200
+
+if __name__ == "__main__":
+    import threading
+    from bot import main  # Replace 'main' with your bot’s main function
+
+    # Run the bot in a separate thread
+    threading.Thread(target=main, daemon=True).start()
+
+    # Start a Flask web server on port 8000 for health checks
+    app.run(host="0.0.0.0", port=8000)
