@@ -20,4 +20,4 @@ BOT_USERNAME = "Luckymin_bot"
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
 FORCE_LINK = "@MovieUpdteHub"
 
-PUBLIC_EARN_API = "https://shortxlinks.com/ref/a62dcaf45b03427a18bd346b466bc56efab83a9b"  # https://publicearn.com/api
+PUBLIC_EARN_API = "https://shortxlinks.com/a62dcaf45b03427a18bd346b466bc56efab83a9b"  # https://publicearn.com/api
