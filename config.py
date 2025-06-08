@@ -1,7 +1,7 @@
-API_ID = 22349465  # api id
-API_HASH = "3732e079c4125690226d8e7b4e028ca4"  # api hash
+API_ID = 20901045 # api id
+API_HASH = "dec03cafafbd892b285499762a896082"  # api hash
 
-BOT_TOKEN = "8112458164:AAGGAawWetqBtJGDSUK05Bz6h0wArWCNnno"  # bot token
+BOT_TOKEN = "7750523801:AAFGAy3vIHEoT8LwGZA0PyVnoA0QQRiA73k"  # bot token
 
 
 # REDIS
@@ -9,15 +9,15 @@ HOST = "redis-18559.c278.us-east-1-4.ec2.redns.redis-cloud.com"
 PORT = "18559"
 PASSWORD = "RxE5lQEJp6AKnPtP0nwj7LNSnA99ZuXS"
 
-PRIVATE_CHAT_ID = -1001786924542  # CHAT WHERE YOU WANT TO STORE VIDEOS
+PRIVATE_CHAT_ID = -1002235582796  # CHAT WHERE YOU WANT TO STORE VIDEOS
 # COOKIE FOR AUTHENTICATION (get from chrome dev tools) ex: "PANWEB=1; csrfToken=;
 COOKIE = ""
-ADMINS = [5469498838]
+ADMINS = [6324457826]
 
 
-BOT_USERNAME = "terabox_downloader_TJbot"
+BOT_USERNAME = "Luckymin_bot"
 
 # Force user to join this channel. (make sure you have promoted the bot on this chat.)
-FORCE_LINK = "@tj_bots"
+FORCE_LINK = "@MovieUpdteHub"
 
-PUBLIC_EARN_API = "https://indiaearnx.com/3ca9e6d453fa647f7dea5916f50519819919f62a"  # https://publicearn.com/api
+PUBLIC_EARN_API = "https://shortxlinks.com/ref/a62dcaf45b03427a18bd346b466bc56efab83a9b"  # https://publicearn.com/api
